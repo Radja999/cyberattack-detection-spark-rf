@@ -83,4 +83,5 @@ A full project presentation is included under `presentation/`. It covers:
 
 ## License
 
-This project is provided for academic and portfolio purposes.
+This project is licensed under the terms of the MIT License.  
+See the [LICENSE](LICENSE) file for full details.
