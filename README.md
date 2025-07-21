@@ -24,7 +24,7 @@ This project uses the **UNSW-NB15 dataset**, available on Kaggle:
 Please download and preprocess the dataset manually before running the pipeline.
 
 ## Repository Structure
-
+```
 cyberattack-detection-spark-rf/
 │
 ├── spark-java/
@@ -40,7 +40,8 @@ cyberattack-detection-spark-rf/
 ├── presentation/
 │ └── cyberattack_detection.pptx # Project presentation slides
 │
-└── README.md
+└── README.md ```
+
 
 ## Key Features
 
