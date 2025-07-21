@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore compiled Java classes
+target/
