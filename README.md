@@ -21,7 +21,10 @@ This project implements a cyberattack detection system using a Random Forest cla
 This project uses the **UNSW-NB15 dataset**, available on Kaggle:  
 [https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15](https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15)
 
-Please download and preprocess the dataset manually before running the pipeline.
+You only need to:
+1. Download the dataset files (`UNSW-NB15_1.csv`, etc.) and the associated features file.
+2. Run the `mongodb_loader.py` script to automatically create the MongoDB database and collections.
+3. Proceed with the Spark pipeline — no manual preprocessing is needed, as it's handled within the Java Spark code.
 
 ## Repository Structure
 ```
